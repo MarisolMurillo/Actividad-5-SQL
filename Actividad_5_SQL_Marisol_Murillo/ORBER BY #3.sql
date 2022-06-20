@@ -1,0 +1,3 @@
+SELECT DATE, value
+FROM sales
+ORDER BY DATE DESC, value ASC 
